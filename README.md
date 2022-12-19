@@ -1,0 +1,1 @@
+# extract_from_ADF_arm_template
